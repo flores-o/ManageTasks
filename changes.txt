@@ -1,0 +1,5 @@
+Changes:
+- style.css - blue instead of red
+- tasks.html
+- projects.html:
+	for each  3 projects - row 
